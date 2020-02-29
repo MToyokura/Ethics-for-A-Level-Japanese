@@ -1,0 +1,36 @@
+# 表紙・はしがき {-}
+
+Aレベルの倫理学
+
+AQA哲学コースとOCR宗教研究コース向け
+<br>マーク・ディモック(Mark Dimmock)、アンドリュー・フィッシャー(Andrew Fisher)
+<br>https://www.openbookpublishers.com
+<br>© 2017 Mark Dimmock and Andrew Fisher
+
+この作品は、Creative Commons Attribution 4.0 International license (CC BY 4.0)の下でライセンスされています。このライセンスでは、あなたは作品を共有、複製、配布、送信することができます。また、著者たちに対する適切な帰属がなされている場合に限り(ただし、著者たちがあなたやあなたの利用行為を支持していると示唆するような方法は除きます)、この作品を翻案し、商業的に利用することができます。帰属には、次の情報を含める必要があります:
+
+Mark Dimmock and Andrew Fisher, Ethics for A-Level. Cambridge, UK: Open Book Publishers, 2017, https://doi.org/10.11647/OBP.0125
+
+ライセンスに関してより詳細でアップデートされた情報にアクセスするためには、以下のサイトをご覧ください
+<br>https://www.openbookpublishers.com/product/639#copyright
+
+CC BY licenses についての更なる詳細は、以下のサイトで利用可能です
+<br>http://creativecommons.org/licenses/by/4.0/
+
+すべての外部リンクは、特に断りのない限り、出版時点で有効であり、[https://archive.org/web](https://archive.org/web)のインターネットアーカイブウェイバックマシーンでアーカイブされています
+
+この本に関連するデジタル素材や資料は以下のサイトで利用可能です
+<br>https://www.openbookpublishers.com/product/639#resources
+
+ISBN Paperback: 978–1–78374–388–9
+<br>ISBN Hardback: 978–1–78374–389–6
+<br>ISBN Digital (PDF): 978–1–78374–390–2
+<br>ISBN Digital ebook (epub): 978–1–78374–391–9
+<br>ISBN Digital ebook (mobi): 978–1–78374–392–6
+<br>DOI: 10.11647/OBP.0125
+
+表紙画像: 空から見たマレーシア(Malaysia from the Sky), photo by Ishan @seefromthesky. Unsplash, https://unsplash.com/photos/N2HtDFA-AgM
+
+Open Book Publishers で使用するすべての紙は、SFI(持続可能な林業イニシアティブ)、PEFC(森林認証制度の承認プログラム)、森林管理協議会(r)((FSC(r))の認証を受けています。
+
+Open Book Publishers (ケンブリッジ、イギリス)のために、Lightning Source社によって、イギリス、アメリカ、オーストラリアで印刷されました
