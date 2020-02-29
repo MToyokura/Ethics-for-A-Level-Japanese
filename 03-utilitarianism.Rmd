@@ -1,4 +1,4 @@
-(PART) 第1部 規範倫理学
+# (PART\*) 第1部 規範倫理学 {-}
 
 # 功利主義
 
@@ -278,5 +278,3 @@ Thomson, Judith Jarvis, ‘The Trolley Problem’, The Yale Law Journal, 94.6 (1
 Toolis, Kevin, ‘The Most Dangerous Man in the World’, the Guardian (6 November 1999), freely available at https://www.theguardian.com/lifeandstyle/1999/nov/06/weekend.kevintoolis
 
 Williams, Bernard, ‘Jim and the Indians’, in his A Critique of Utilitarianism, freely available at https://www.unc.edu/courses/2009spring/plcy/240/001/Jim_and_Indians.pdf
-
-この訳文は元の本のCreative Commons BY 4.0ライセンスに従って同ライセンスにて公開します。 問題がありましたら、可能な限り早く対応いたしますので、ご連絡ください。また、誤訳・不適切な表現等ありましたらご指摘ください。
