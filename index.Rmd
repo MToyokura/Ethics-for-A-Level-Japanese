@@ -12,7 +12,7 @@ description: "Mark Dimmock と Andrew Fisherによる「Ethics for A-Level」を
 
 当サイトのコンテンツはすべてCC BY 4.0のもとに提供されています。
 
-当サイトの GitHub レポジトリは[こちら](https://github.com/MToyokura/Ethics-for-A-Level-Japanese)。
+当サイトの GitHub レポジトリはこちら（[https://github.com/MToyokura/Ethics-for-A-Level-Japanese](https://github.com/MToyokura/Ethics-for-A-Level-Japanese)）。
 
 ```{r, echo=FALSE, out.width='50%', fig.align = 'center', fig.link='https://doi.org/10.11647/obp.0125'}
 knitr::include_graphics("images/cover.png")
