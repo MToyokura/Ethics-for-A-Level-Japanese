@@ -1,5 +1,5 @@
 --- 
-title: "倫理学基礎"
+title: "Aレベルの倫理学"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
