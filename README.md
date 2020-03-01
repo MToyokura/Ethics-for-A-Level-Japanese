@@ -1,4 +1,4 @@
-このレポジトリはMark Dimmock と Andrew Fisherによる「Ethics for A-Level」を Better Late Than Never （https://medium.com/@BetterLateThanNever）が翻訳したものを bookdown 形式で公開しているものです。
+このレポジトリはMark Dimmock と Andrew Fisherによる「Ethics for A-Level」を [Better Late Than Never](https://medium.com/@BetterLateThanNever)が翻訳したものを bookdown 形式で公開しているものです。
 
 サイト本体はこちらです。[https://mtoyokura.github.io/Ethics-for-A-Level-Japanese/](https://mtoyokura.github.io/Ethics-for-A-Level-Japanese/)
 
