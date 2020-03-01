@@ -3,7 +3,7 @@ title: "倫理学基礎"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-description: "Mark Dimmock と Andrew Fisher によるEthics for A-Level を気が向いたときに翻訳してるサイト。"
+description: "Mark Dimmock と Andrew Fisherによる「Ethics for A-Level」を Better Late Than Never （https://medium.com/@BetterLateThanNever）が翻訳したものを bookdown 形式で公開しているサイトです。"
 ---
 
 # このサイトについて{-}
